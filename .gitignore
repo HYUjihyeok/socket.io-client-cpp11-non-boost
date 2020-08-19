@@ -1,3 +1,5 @@
 build/
 **/*.user
 examples/Console/SioChatDemo/.vs
+**/*.obj
+**/*.lik
